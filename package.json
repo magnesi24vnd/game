@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tmhnix/game.git"
+    "url": "git+https://github.com/alisababivip/game.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tmhnix/game/issues"
+    "url": "https://github.com/alisababivip/game/issues"
   },
-  "homepage": "https://github.com/tmhnix/game#readme",
+  "homepage": "https://github.com/alisababivip/game#readme",
   "dependencies": {
     "express": "^4.21.1"
   }
